@@ -22,7 +22,7 @@ interface Product {
 const products: Product[] = [
   {
     id: "playera-1",
-    name: "Playera Unisex",
+    name: "Playera Marcoooo",
     category: "playeras",
     description: "100% poliéster, ideal para sublimación. Colores vibrantes que duran.",
     price: 120,
