@@ -22,12 +22,12 @@ interface Product {
 const products: Product[] = [
   {
     id: "playera-1",
-    name: "Playera Marcoooo",
+    name: "Playera DTF Ambos lados",
     category: "playeras",
     description: "100% poliéster, ideal para sublimación. Colores vibrantes que duran.",
-    price: 120,
-    originalPrice: 145,
-    badge: "Popular",
+    price: 230,
+    originalPrice: 325,
+    badge: "Descuento",
     image: "public/P-BB16_700x700.webp",
   },
   {
