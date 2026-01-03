@@ -78,7 +78,7 @@ const products: Product[] = [
   },
   {
     id: "taza-1",
-    name: "Taza de Cerámica Tradicional 11 Oz",
+    name: "eojnfewòcbwùrbTaza de Cerámica Tradicional 11 Oz",
     category: "tazas",
     description: "Cerámica de alta calidad, resistente al microondas y lavavajillas.",
     price: 85,
