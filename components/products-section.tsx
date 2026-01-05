@@ -32,7 +32,7 @@ const products: Product[] = [
   },
   {
     id: "playera-2",
-    name: "Playera Unisex",
+    name: "Playera DTF un solo lado",
     category: "playeras",
     description: "Estilo clásico, 100% poliéster. Perfecta para diseños complejos.",
     price: 150,
@@ -42,7 +42,7 @@ const products: Product[] = [
   },
   {
     id: "playera-3",
-    name: "Playera Unisex",
+    name: "Playera DTF logo pequeño",
     category: "playeras",
     description: "Comodidad y estilo en todas las temporadas.",
     price: 195,
@@ -50,7 +50,7 @@ const products: Product[] = [
   },
   {
     id: "playera-4",
-    name: "Playera Cuello Redondo Manga larga",
+    name: "Playera Oversize",
     category: "playeras",
     description: "Comodidad y estilo en todas las temporadas.",
     price: 200,
@@ -59,7 +59,7 @@ const products: Product[] = [
   },
   {
     id: "playera-5",
-    name: "Playera Cuello Redondo (DTF)",
+    name: "Playera bicolor",
     category: "playeras",
     description: "Algodón o poliéster, alta calidad de impresión.",
     price: 190,
@@ -69,7 +69,7 @@ const products: Product[] = [
   },
   {
     id: "playera-6",
-    name: "Playera Cuello Redondo (DTF)",
+    name: "Playera bicolor un logo",
     category: "playeras",
     description: "Algodón o poliéster, gran durabilidad.",
     price: 210,
@@ -78,7 +78,7 @@ const products: Product[] = [
   },
   {
     id: "taza-1",
-    name: "eojnfewòcbwùrbTaza de Cerámica Tradicional 11 Oz",
+    name: "Taza bicolor",
     category: "tazas",
     description: "Cerámica de alta calidad, resistente al microondas y lavavajillas.",
     price: 85,
@@ -88,7 +88,7 @@ const products: Product[] = [
   },
   {
     id: "taza-2",
-    name: "Taza de Cerámica bicolor 11 Oz",
+    name: "Taza blanca",
     category: "tazas",
     description: "Sorprende a tus clientes!",
     price: 95,
