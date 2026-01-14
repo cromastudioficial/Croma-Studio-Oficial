@@ -28,20 +28,6 @@ export function Footer() {
                 <div className="absolute inset-0 bg-primary rounded-2xl blur-lg opacity-30" />
               </div>
 
-              <div className="relative">
-                <div className="w-12 h-12 rounded-2xl flex items-center justify-center shadow-lg shadow-primary/30 overflow-hidden">
-                  <Image 
-                    src="/CromaStudioLogo.jpeg" 
-                    alt="Croma Studio Logo" 
-                    width={48} 
-                    height={48}
-                    className="object-cover w-full h-full"
-                  />
-                </div>
-                <div className="absolute inset-0 bg-primary rounded-2xl blur-lg opacity-30" />
-              </div>
-
-
               
               <span className="text-xl font-bold text-foreground">Croma Studio</span>
             </div>
