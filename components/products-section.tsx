@@ -121,7 +121,6 @@ const products: Product[] = [
     image: "/termo-laser-metalico.jpg",
   },
 ]
-]
 
 const categories = [
   { id: "todas", label: "Todas" },
