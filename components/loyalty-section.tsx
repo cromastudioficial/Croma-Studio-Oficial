@@ -32,7 +32,7 @@ const tiers = [
       "Prioridad en producción y entrega",
       "Muestras digitales antes de producción",
     ],
-    requirement: "Al alcanzar 15 compras",
+    requirement: "Al alcanzar 10 compras",
     popular: true,
   },
   {
@@ -49,7 +49,7 @@ const tiers = [
       "Asesoría de marca personalizada",
       "Descuentos especiales en pedidos grandes",
     ],
-    requirement: "Al alcanzar 30 compras",
+    requirement: "Al alcanzar 15 compras",
   },
 ]
 
