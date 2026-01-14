@@ -2,6 +2,7 @@
 
 import { MessageCircle, Instagram, Facebook, Mail, MapPin, Phone, ArrowUp } from "lucide-react"
 import { Button } from "@/components/ui/button"
+import Image from "next/image"
 
 export function Footer() {
   const scrollToTop = () => {
@@ -20,15 +21,19 @@ export function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-10 mb-12">
           <div className="space-y-5">
             <div className="flex items-center gap-3">
-              
               <div className="relative">
-                <div className="w-12 h-12 bg-gradient-to-br from-primary to-blue-600 rounded-2xl flex items-center justify-center shadow-lg shadow-primary/30">
-                  <span className="text-xl font-bold text-primary-foreground">C</span>
+                {/* Logo de imagen */}
+                <div className="w-12 h-12 rounded-2xl flex items-center justify-center shadow-lg shadow-primary/30 overflow-hidden">
+                  <Image 
+                    src="/CromaStudioLogo.jpeg" 
+                    alt="Croma Studio Logo" 
+                    width={48} 
+                    height={48}
+                    className="object-cover w-full h-full"
+                  />
                 </div>
                 <div className="absolute inset-0 bg-primary rounded-2xl blur-lg opacity-30" />
               </div>
-
-              
               <span className="text-xl font-bold text-foreground">Croma Studio</span>
             </div>
             <p className="text-sm text-muted-foreground leading-relaxed">
