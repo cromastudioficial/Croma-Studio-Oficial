@@ -20,12 +20,29 @@ export function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-10 mb-12">
           <div className="space-y-5">
             <div className="flex items-center gap-3">
+              
               <div className="relative">
                 <div className="w-12 h-12 bg-gradient-to-br from-primary to-blue-600 rounded-2xl flex items-center justify-center shadow-lg shadow-primary/30">
                   <span className="text-xl font-bold text-primary-foreground">C</span>
                 </div>
                 <div className="absolute inset-0 bg-primary rounded-2xl blur-lg opacity-30" />
               </div>
+
+              <div className="relative">
+                <div className="w-12 h-12 rounded-2xl flex items-center justify-center shadow-lg shadow-primary/30 overflow-hidden">
+                  <Image 
+                    src="/CromaStudioLogo.jpeg" 
+                    alt="Croma Studio Logo" 
+                    width={48} 
+                    height={48}
+                    className="object-cover w-full h-full"
+                  />
+                </div>
+                <div className="absolute inset-0 bg-primary rounded-2xl blur-lg opacity-30" />
+              </div>
+
+
+              
               <span className="text-xl font-bold text-foreground">Croma Studio</span>
             </div>
             <p className="text-sm text-muted-foreground leading-relaxed">
@@ -78,9 +95,9 @@ export function Footer() {
             </h3>
             <ul className="space-y-3">
               {[
-                { icon: MapPin, text: "Tepic, Nayarit, México" },
+                { icon: MapPin, text: "EDOMEX - CDMX, México" },
                 { icon: Phone, text: "554 242 4621" },
-                { icon: Mail, text: "info@cromastudio.com" },
+                { icon: Mail, text: "cromastudiof@gmail.com" },
               ].map((item, index) => {
                 const Icon = item.icon
                 return (
