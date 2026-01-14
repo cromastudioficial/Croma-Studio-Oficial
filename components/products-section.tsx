@@ -127,7 +127,7 @@ const categories = [
   { id: "playeras", label: "Playeras" },
   { id: "tazas", label: "Tazas" },
   { id: "termos", label: "Termos" },
-  { id: "termos", label: "Prueba" },
+  { id: "Prueba", label: "Prueba" },
 ]
 
 export function ProductsSection() {
