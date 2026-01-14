@@ -18,7 +18,7 @@ export function Footer() {
       <div className="absolute bottom-0 left-0 w-[350px] h-[350px] bg-blue-500/15 rounded-full blur-[100px]" />
 
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 py-16 relative z-10">
-        <div className="grid grid-cols-1 md:grid-cols-4 gap-10 mb-12">
+        
           <div className="space-y-5">
             <div className="flex items-center gap-3">
               <div className="relative">
