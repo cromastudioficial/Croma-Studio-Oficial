@@ -7,6 +7,7 @@ import { useState, useEffect } from "react"
 import { CartSheet } from "@/components/cart-sheet"
 import { useCart } from "@/hooks/use-cart"
 import Link from "next/link"
+import Image from "next/image"
 
 export function Header() {
   const [isMenuOpen, setIsMenuOpen] = useState(false)
