@@ -120,6 +120,15 @@ const products: Product[] = [
     badge: "Nuevo",
     image: "/termo-laser-metalico.jpg",
   },
+  {
+    id: "prueba-1",
+    name: "Termo con grabado laser",
+    category: "Prueba",
+    description: "Perfecto para viajes.",
+    price: 300,
+    badge: "Nuevo",
+    image: "/termo-laser-metalico.jpg",
+  },
 ]
 
 const categories = [
