@@ -3,7 +3,6 @@
 import { MessageCircle, Instagram, Facebook, Mail, MapPin, Phone, ArrowUp } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import Image from "next/image"
-import Link from "next/link"
 import { useState } from "react"
 
 export function Footer() {
@@ -34,17 +33,17 @@ export function Footer() {
             <div className="space-y-5">
               <div className="flex items-center gap-3">
                 <div className="relative">
-                  {/* Logo de imagen */}
-                  <div className="w-12 h-12 rounded-2xl flex items-center justify-center shadow-lg shadow-primary/30 overflow-hidden bg-white">
+                  {/* Logo de imagen SIN efecto de color */}
+                  <div className="w-12 h-12 rounded-2xl flex items-center justify-center shadow-lg shadow-gray-300 overflow-hidden bg-white">
                     <Image 
                       src="/CromaStudioLogo.jpeg" 
                       alt="Croma Studio Logo" 
                       width={48} 
                       height={48}
-                      className="object-cover w-full h-full"
+                      className="object-contain w-full h-full p-1"
+                      style={{ filter: 'none' }}
                     />
                   </div>
-                  <div className="absolute inset-0 bg-primary rounded-2xl blur-lg opacity-30" />
                 </div>
                 <span className="text-xl font-bold text-foreground">Croma Studio</span>
               </div>
@@ -190,13 +189,13 @@ export function Footer() {
             <div className="sticky top-0 bg-card/95 backdrop-blur-sm border-b border-border/50 p-6">
               <div className="flex items-center justify-between">
                 <div className="flex items-center gap-3">
-                  <div className="w-10 h-10 rounded-full bg-primary/10 flex items-center justify-center">
+                  <div className="w-10 h-10 rounded-full bg-white flex items-center justify-center shadow">
                     <Image 
                       src="/CromaStudioLogo.jpeg" 
                       alt="Logo" 
-                      width={24} 
-                      height={24}
-                      className="rounded-full"
+                      width={32} 
+                      height={32}
+                      className="object-contain"
                     />
                   </div>
                   <h2 className="text-2xl font-bold text-foreground">Política de Privacidad</h2>
@@ -281,6 +280,7 @@ export function Footer() {
                   <p className="font-medium">Croma Studio</p>
                   <p className="text-sm">Email: cromastudiof@gmail.com</p>
                   <p className="text-sm">Teléfono: 554 242 4621</p>
+                  <p className="text-sm">Horario: Lunes a Viernes 9:00 AM - 7:00 PM</p>
                 </div>
               </div>
             </div>
@@ -295,13 +295,13 @@ export function Footer() {
             <div className="sticky top-0 bg-card/95 backdrop-blur-sm border-b border-border/50 p-6">
               <div className="flex items-center justify-between">
                 <div className="flex items-center gap-3">
-                  <div className="w-10 h-10 rounded-full bg-primary/10 flex items-center justify-center">
+                  <div className="w-10 h-10 rounded-full bg-white flex items-center justify-center shadow">
                     <Image 
                       src="/CromaStudioLogo.jpeg" 
                       alt="Logo" 
-                      width={24} 
-                      height={24}
-                      className="rounded-full"
+                      width={32} 
+                      height={32}
+                      className="object-contain"
                     />
                   </div>
                   <h2 className="text-2xl font-bold text-foreground">Términos y Condiciones</h2>
