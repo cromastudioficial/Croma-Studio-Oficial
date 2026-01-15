@@ -38,7 +38,7 @@ const products: Product[] = [
     price: 150,
     originalPrice: 170,
     badge: "Nuevo",
-    image: "/playera-sublimada-colores.jpg",
+    image: "/IMG_2083.jpg",
   },
   {
     id: "playera-3",
