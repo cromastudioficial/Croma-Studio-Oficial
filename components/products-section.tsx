@@ -129,6 +129,14 @@ const products: Product[] = [
     badge: "Nuevo",
     image: "/termo-laser-metalico.jpg",
   },
+  {
+    id: "botones",
+    name: "Botones chivos",
+    category: "fotobotones",
+    description: "Increible como accesorio sutil.",
+    price: 10,
+    image: "/termo-laser-metalico.jpg",
+  },
 ]
 
 const categories = [
