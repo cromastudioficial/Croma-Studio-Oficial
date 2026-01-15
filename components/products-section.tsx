@@ -136,7 +136,14 @@ const categories = [
   { id: "playeras", label: "Playeras" },
   { id: "tazas", label: "Tazas" },
   { id: "termos", label: "Termos" },
-  { id: "Prueba", label: "Prueba" },
+  { id: "fotobotones", label: "Foto botones" },
+  { id: "fundascelular", label: "Fundas para celular" },
+  { id: "gorras", label: "Gorras" },
+  { id: "impresos", label: "Impresos" },
+  { id: "sudaderas", label: "Sudaderas" },
+  { id: "pinesmetalicos", label: "Pines metalicos" },
+  { id: "baners", label: "Baners" },
+  { id: "servicios", label: "Servicios" },
 ]
 
 export function ProductsSection() {
