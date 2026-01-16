@@ -194,6 +194,15 @@ const products: Product[] = [
     price: 400,
     image: "/playera-dtf-personalizada.jpg",
   },
+  {
+    id: "pines-1",
+    name: "Pines metalicos",
+    category: "pinesmetalicos",
+    description: "Elegantes y resistentes, perfectos para coleccionar",
+    price: 85,
+    badge: "Nuevo",
+    image: "/public/IMG_2018.jpeg",
+  },
 ]
 
 const categories = [
