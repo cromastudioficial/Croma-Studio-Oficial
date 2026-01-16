@@ -28,7 +28,7 @@ const products: Product[] = [
     price: 230,
     originalPrice: 270,
     badge: "Descuento",
-    image: "/P-BB16_700x700.webp",
+    image: "/public/IMG_2018.jpeg",
   },
   {
     id: "playera-2",
@@ -84,7 +84,7 @@ const products: Product[] = [
     price: 85,
     originalPrice: 100,
     badge: "Popular",
-    image: "/taza-blanca-personalizada.jpg",
+    image: "/taza-bicolor-personalizada.jpg",
   },
   {
     id: "taza-2",
@@ -92,7 +92,7 @@ const products: Product[] = [
     category: "tazas",
     description: "Sorprende a tus clientes!",
     price: 75,
-    image: "/taza-bicolor-personalizada.jpg",
+    image: "/taza-blanca-personalizada.jpg",
   },
   {
     id: "termo-1",
@@ -112,22 +112,13 @@ const products: Product[] = [
     image: "/termo-laser-metalico.jpg",
   },
   {
-    id: "termo-3",
-    name: "Termo con grabado laser",
-    category: "termos",
-    description: "Perfecto para viajes.",
-    price: 300,
-    badge: "Nuevo",
-    image: "/termo-laser-metalico.jpg",
-  },
-  {
     id: "termo-4",
     name: "Termo vinil",
     category: "termos",
     description: "Perfecto para viajes.",
     price: 235,
     badge: "Nuevo",
-    image: "/termo-laser-metalico.jpg",
+    image: "/termo_lata.jpg",
   },
   {
     id: "botones-1",
@@ -135,7 +126,7 @@ const products: Product[] = [
     category: "fotobotones",
     description: "Increible para detalles y perfecto para uso diario.",
     price: 10,
-    image: "/termo-laser-metalico.jpg",
+    image: "/IMG_2121.jpg",
   },
   {
     id: "botones-2",
@@ -143,7 +134,7 @@ const products: Product[] = [
     category: "fotobotones",
     description: "El equilibrio perfecto para destacar diseños sin perder comodidad.",
     price: 15,
-    image: "/termo-laser-metalico.jpg",
+    image: "/IMG_2119.jpg",
   },
   {
     id: "botones-3",
@@ -151,7 +142,7 @@ const products: Product[] = [
     category: "fotobotones",
     description: "Mayor impacto visual para resaltar mensajes e ilustraciones.",
     price: 20,
-    image: "/termo-laser-metalico.jpg",
+    image: "/IMG_2117.jpg",
   },
   {
     id: "gorras-1",
@@ -197,7 +188,7 @@ const products: Product[] = [
   },
   {
     id: "sudadera-4",
-    name: "Sudadera con cierre, un lado",
+    name: "Sudadera con cierre, logo un lado",
     category: "sudaderas",
     description: "Ideal para uso diario o corporativo",
     price: 400,
