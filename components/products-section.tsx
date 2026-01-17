@@ -141,10 +141,41 @@ const products: Product[] = [
   },
   {
     id: "termo-7",
-    name: "Termo vinil",
+    name: "Termo Yeti",
     category: "termos",
-    description: "Perfecto para viajes.",
-    price: 235,
+    price: 270,
+    badge: "Nuevo",
+    image: "/termo_lata.jpg",
+  },
+  {
+    id: "termo-8",
+    name: "Termo Yeti con agarradera",
+    category: "termos",
+    price: 336,
+    badge: "Nuevo",
+    image: "/termo_lata.jpg",
+  },
+  {
+    id: "termo-9",
+    name: "Termo Pera",
+    category: "termos",
+    price: 260,
+    badge: "Nuevo",
+    image: "/termo_lata.jpg",
+  },
+   {
+    id: "termo-10",
+    name: "Termo Digital",
+    category: "termos",
+    price: 230,
+    badge: "Nuevo",
+    image: "/termo_lata.jpg",
+  },
+   {
+    id: "termo-11",
+    name: "Termo Novangua",
+    category: "termos",
+    price: 480,
     badge: "Nuevo",
     image: "/termo_lata.jpg",
   },
@@ -273,7 +304,7 @@ const products: Product[] = [
   },
   {
     id: "fundas-6",
-    name: "Funda Sublimación orilas reforzadas",
+    name: "Funda Sublimación orillas reforzadas",
     category: "fundascelular",
     price: 115,
     badge: "Nuevo",
@@ -310,8 +341,7 @@ const products: Product[] = [
     price: 140,
     badge: "Nuevo",
     image: "/public/IMG_2018.jpeg",
-  },
-  
+  }, 
 ]
 
 const categories = [
