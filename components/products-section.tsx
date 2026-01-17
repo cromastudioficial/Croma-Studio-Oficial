@@ -104,7 +104,7 @@ const products: Product[] = [
   },
   {
     id: "termo-2",
-    name: "Termo sublimado Skinney",
+    name: "Termo sublimado Skinny",
     category: "termos",
     price: 270,
     image: "/termo-sublimado-personalizado.jpg",
