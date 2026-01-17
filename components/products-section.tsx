@@ -107,28 +107,28 @@ const products: Product[] = [
     name: "Termo sublimado Skinny",
     category: "termos",
     price: 270,
-    image: "/termo-sublimado-personalizado.jpg",
+    image: "/termosskinny.png",
   },
   {
     id: "termo-3",
     name: "Termo lata pequeña",
     category: "termos",
     price: 185,
-    image: "/termo-sublimado-personalizado.jpg",
+    image: "/termolatapequeña.png",
   },
   {
     id: "termo-4",
     name: "Termo lata grande",
     category: "termos",
     price: 250,
-    image: "/termo-sublimado-personalizado.jpg",
+    image: "/termolatagrande.png",
   },
   {
     id: "termo-5",
     name: "Termo plata",
     category: "termos",
     price: 165,
-    image: "/termo-sublimado-personalizado.jpg",
+    image: "/termoplata.png",
   },
   {
     id: "termo-6",
@@ -145,7 +145,7 @@ const products: Product[] = [
     category: "termos",
     price: 270,
     badge: "Nuevo",
-    image: "/termolaser.png",
+    image: "/yeti.png",
   },
   {
     id: "termo-8",
@@ -153,7 +153,7 @@ const products: Product[] = [
     category: "termos",
     price: 336,
     badge: "Nuevo",
-    image: "/termolaser.png",
+    image: "/Yetiagarradera.png",
   },
   {
     id: "termo-9",
@@ -161,7 +161,7 @@ const products: Product[] = [
     category: "termos",
     price: 260,
     badge: "Nuevo",
-    image: "/termolaser.png",
+    image: "/termopera.png",
   },
    {
     id: "termo-10",
@@ -169,7 +169,7 @@ const products: Product[] = [
     category: "termos",
     price: 230,
     badge: "Nuevo",
-    image: "/termolaser.png",
+    image: "/termodigital.png",
   },
    {
     id: "termo-11",
@@ -177,7 +177,7 @@ const products: Product[] = [
     category: "termos",
     price: 480,
     badge: "Nuevo",
-    image: "/termolaser.png",
+    image: "/termoNovangua.png",
   },
   {
     id: "botones-1",
@@ -268,7 +268,7 @@ const products: Product[] = [
     category: "fundascelular",
     price: 70,
     badge: "Nuevo",
-    image: "/fundas.png",
+    image: "/fundasAcrilico.png",
   },
   {
     id: "fundas-2",
@@ -276,7 +276,7 @@ const products: Product[] = [
     category: "fundascelular",
     price: 45,
     badge: "Nuevo",
-    image: "/fundas.png",
+    image: "/fundaAcrigel.png",
   },
   {
     id: "fundas-3",
@@ -284,7 +284,7 @@ const products: Product[] = [
     category: "fundascelular",
     price: 110,
     badge: "Nuevo",
-    image: "/fundas.png",
+    image: "/funda2D.webp",
   },
   {
     id: "fundas-4",
@@ -292,7 +292,7 @@ const products: Product[] = [
     category: "fundascelular",
     price: 120,
     badge: "Nuevo",
-    image: "/fundas.png",
+    image: "/funda360.webp",
   },
   {
     id: "fundas-5",
@@ -300,7 +300,7 @@ const products: Product[] = [
     category: "fundascelular",
     price: 80,
     badge: "Nuevo",
-    image: "/fundas.png",
+    image: "/acrigelSublim.png",
   },
   {
     id: "fundas-6",
@@ -308,7 +308,7 @@ const products: Product[] = [
     category: "fundascelular",
     price: 115,
     badge: "Nuevo",
-    image: "/fundas.png",
+    image: "/reforzadaSublim.png",
   },
   {
     id: "fundas-7",
@@ -316,7 +316,7 @@ const products: Product[] = [
     category: "fundascelular",
     price: 115,
     badge: "Nuevo",
-    image: "/fundas.png",
+    image: "/funda360.png",
   },
   {
     id: "fundas-8",
@@ -324,7 +324,7 @@ const products: Product[] = [
     category: "fundascelular",
     price: 30,
     badge: "Nuevo",
-    image: "/fundas.png",
+    image: "/popSocket.webp",
   },
   {
     id: "fundas-9",
@@ -332,7 +332,7 @@ const products: Product[] = [
     category: "fundascelular",
     price: 50,
     badge: "Nuevo",
-    image: "/fundas.png",
+    image: "/popSockMag.jpg",
   },
   {
     id: "fundas-10",
@@ -340,7 +340,7 @@ const products: Product[] = [
     category: "fundascelular",
     price: 140,
     badge: "Nuevo",
-    image: "/fundas.png",
+    image: "/magsafe.webp",
   }, 
 ]
 
