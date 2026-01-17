@@ -28,7 +28,7 @@ const products: Product[] = [
     price: 230,
     originalPrice: 270,
     badge: "Descuento",
-    image: "DTFamboslados.png",
+    image: "/DTFamboslados.png",
   },
   {
     id: "playera-2",
