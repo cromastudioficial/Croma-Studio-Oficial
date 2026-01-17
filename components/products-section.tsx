@@ -38,7 +38,7 @@ const products: Product[] = [
     price: 150,
     originalPrice: 210,
     badge: "Nuevo",
-    image: "/IMG_2083.jpg",
+    image: "/DTFsololado.png",
   },
   {
     id: "playera-3",
@@ -46,7 +46,7 @@ const products: Product[] = [
     category: "playeras",
     description: "Comodidad y estilo en todas las temporadas.",
     price: 190,
-    image: "/playera-ambos-lados-dise-o.jpg",
+    image: "/DTFlogopequeño.png",
   },
   {
     id: "playera-4",
@@ -55,7 +55,7 @@ const products: Product[] = [
     description: "Comodidad y estilo en todas las temporadas.",
     price: 200,
     originalPrice: 300,
-    image: "/playera-manga-larga.jpg",
+    image: "/oversized.png",
   },
   {
     id: "playera-5",
@@ -65,7 +65,7 @@ const products: Product[] = [
     price: 190,
     originalPrice: 250,
     badge: "Popular",
-    image: "/playera-dtf-impresion.jpg",
+    image: "/bicolor.png",
   },
   {
     id: "playera-6",
@@ -74,7 +74,7 @@ const products: Product[] = [
     description: "Algodón o poliéster, gran durabilidad.",
     price: 220,
     originalPrice: 270,
-    image: "/playera-dtf-personalizada.jpg",
+    image: "/bicolorunlogo.png",
   },
   {
     id: "taza-1",
@@ -137,7 +137,7 @@ const products: Product[] = [
     description: "Perfecto para viajes.",
     price: 300,
     badge: "Nuevo",
-    image: "/termo-laser-metalico.jpg",
+    image: "/termolaser.png",
   },
   {
     id: "termo-7",
@@ -145,7 +145,7 @@ const products: Product[] = [
     category: "termos",
     price: 270,
     badge: "Nuevo",
-    image: "/termo_lata.jpg",
+    image: "/termolaser.png",
   },
   {
     id: "termo-8",
@@ -153,7 +153,7 @@ const products: Product[] = [
     category: "termos",
     price: 336,
     badge: "Nuevo",
-    image: "/termo_lata.jpg",
+    image: "/termolaser.png",
   },
   {
     id: "termo-9",
@@ -161,7 +161,7 @@ const products: Product[] = [
     category: "termos",
     price: 260,
     badge: "Nuevo",
-    image: "/termo_lata.jpg",
+    image: "/termolaser.png",
   },
    {
     id: "termo-10",
@@ -169,7 +169,7 @@ const products: Product[] = [
     category: "termos",
     price: 230,
     badge: "Nuevo",
-    image: "/termo_lata.jpg",
+    image: "/termolaser.png",
   },
    {
     id: "termo-11",
@@ -177,7 +177,7 @@ const products: Product[] = [
     category: "termos",
     price: 480,
     badge: "Nuevo",
-    image: "/termo_lata.jpg",
+    image: "/termolaser.png",
   },
   {
     id: "botones-1",
@@ -185,7 +185,7 @@ const products: Product[] = [
     category: "fotobotones",
     description: "Increible para detalles y perfecto para uso diario.",
     price: 10,
-    image: "/IMG_2121.jpg",
+    image: "/botones.webp",
   },
   {
     id: "botones-2",
@@ -193,7 +193,7 @@ const products: Product[] = [
     category: "fotobotones",
     description: "El equilibrio perfecto para destacar diseños sin perder comodidad.",
     price: 15,
-    image: "/IMG_2119.jpg",
+    image: "/botones.webp",
   },
   {
     id: "botones-3",
@@ -201,7 +201,7 @@ const products: Product[] = [
     category: "fotobotones",
     description: "Mayor impacto visual para resaltar mensajes e ilustraciones.",
     price: 20,
-    image: "/IMG_2117.jpg",
+    image: "/botones.webp",
   },
   {
     id: "gorras-1",
@@ -209,7 +209,7 @@ const products: Product[] = [
     category: "gorras",
     description: "Ideal para su uso diario.",
     price: 160,
-    image: "/termo-laser-metalico.jpg",
+    image: "/gorranormal.png",
   },
   {
     id: "gorras-2",
@@ -217,7 +217,7 @@ const products: Product[] = [
     category: "gorras",
     description: "Funcionales brindando un diseño que se adapte a tu estilo.",
     price: 180,
-    image: "/termo-laser-metalico.jpg",
+    image: "/gorraDTF.png",
   },
   {
     id: "sudadera-1",
@@ -226,7 +226,7 @@ const products: Product[] = [
     description: "Comodidad y diseño exclusivo.",
     price: 345,
     originalPrice: 380,
-    image: "/playera-dtf-personalizada.jpg",
+    image: "/sudaderaamboslados.png",
   },
    {
     id: "sudadera-2",
@@ -235,7 +235,7 @@ const products: Product[] = [
     description: "Perfecta para marcas o uso personal",
     price: 300,
     originalPrice: 320,
-    image: "/playera-dtf-personalizada.jpg",
+    image: "/sudaderaunlado.png",
   },
   {
     id: "sudadera-3",
@@ -243,7 +243,7 @@ const products: Product[] = [
     category: "sudaderas",
     description: "Personalizada por parte frontal y posterior, maximiando visibilidad sin perder el estilo",
     price: 430,
-    image: "/playera-dtf-personalizada.jpg",
+    image: "/cierreamboslados.png",
   },
   {
     id: "sudadera-4",
@@ -251,7 +251,7 @@ const products: Product[] = [
     category: "sudaderas",
     description: "Ideal para uso diario o corporativo",
     price: 400,
-    image: "/playera-dtf-personalizada.jpg",
+    image: "/cierreunlado.png",
   },
   {
     id: "pines-1",
@@ -260,7 +260,7 @@ const products: Product[] = [
     description: "Elegantes y resistentes, perfectos para coleccionar",
     price: 85,
     badge: "Nuevo",
-    image: "/public/IMG_2018.jpeg",
+    image: "/pinmetalico.png",
   },
   {
     id: "fundas-1",
@@ -268,7 +268,7 @@ const products: Product[] = [
     category: "fundascelular",
     price: 70,
     badge: "Nuevo",
-    image: "/public/IMG_2018.jpeg",
+    image: "/fundas.png",
   },
   {
     id: "fundas-2",
@@ -276,7 +276,7 @@ const products: Product[] = [
     category: "fundascelular",
     price: 45,
     badge: "Nuevo",
-    image: "/public/IMG_2018.jpeg",
+    image: "/fundas.png",
   },
   {
     id: "fundas-3",
@@ -284,7 +284,7 @@ const products: Product[] = [
     category: "fundascelular",
     price: 110,
     badge: "Nuevo",
-    image: "/public/IMG_2018.jpeg",
+    image: "/fundas.png",
   },
   {
     id: "fundas-4",
@@ -292,7 +292,7 @@ const products: Product[] = [
     category: "fundascelular",
     price: 120,
     badge: "Nuevo",
-    image: "/public/IMG_2018.jpeg",
+    image: "/fundas.png",
   },
   {
     id: "fundas-5",
@@ -300,7 +300,7 @@ const products: Product[] = [
     category: "fundascelular",
     price: 80,
     badge: "Nuevo",
-    image: "/public/IMG_2018.jpeg",
+    image: "/fundas.png",
   },
   {
     id: "fundas-6",
@@ -308,7 +308,7 @@ const products: Product[] = [
     category: "fundascelular",
     price: 115,
     badge: "Nuevo",
-    image: "/public/IMG_2018.jpeg",
+    image: "/fundas.png",
   },
   {
     id: "fundas-7",
@@ -316,7 +316,7 @@ const products: Product[] = [
     category: "fundascelular",
     price: 115,
     badge: "Nuevo",
-    image: "/public/IMG_2018.jpeg",
+    image: "/fundas.png",
   },
   {
     id: "fundas-8",
@@ -324,7 +324,7 @@ const products: Product[] = [
     category: "fundascelular",
     price: 30,
     badge: "Nuevo",
-    image: "/public/IMG_2018.jpeg",
+    image: "/fundas.png",
   },
   {
     id: "fundas-9",
@@ -332,7 +332,7 @@ const products: Product[] = [
     category: "fundascelular",
     price: 50,
     badge: "Nuevo",
-    image: "/public/IMG_2018.jpeg",
+    image: "/fundas.png",
   },
   {
     id: "fundas-10",
@@ -340,7 +340,7 @@ const products: Product[] = [
     category: "fundascelular",
     price: 140,
     badge: "Nuevo",
-    image: "/public/IMG_2018.jpeg",
+    image: "/fundas.png",
   }, 
 ]
 
@@ -352,11 +352,8 @@ const categories = [
   { id: "fotobotones", label: "Foto botones" },
   { id: "fundascelular", label: "Fundas para celular" },
   { id: "gorras", label: "Gorras" },
-  { id: "impresos", label: "Impresos" },
   { id: "sudaderas", label: "Sudaderas" },
   { id: "pinesmetalicos", label: "Pines metalicos" },
-  { id: "baners", label: "Baners" },
-  { id: "servicios", label: "Servicios" },
 ]
 
 export function ProductsSection() {
